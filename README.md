@@ -1,6 +1,5 @@
 # IP Atlas
 
-![IP Atlas Logo](link_to_your_logo) <!-- Change this if you want to add a logo -->
 
 ## Overview
 
