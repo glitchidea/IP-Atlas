@@ -2,9 +2,9 @@
 
 import geoip2.database
 
-city_db_path = 'iplocation/GeoLite2-City.mmdb'
-country_db_path = 'iplocation/GeoLite2-Country.mmdb'
-asn_db_path = 'iplocation/GeoLite2-ASN.mmdb'
+city_db_path = 'GeoLite2-City.mmdb'
+country_db_path = 'GeoLite2-Country.mmdb'
+asn_db_path = 'GeoLite2-ASN.mmdb'
 
 def get_ip_info(ip_address):
     try:
